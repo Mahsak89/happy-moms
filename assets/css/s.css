@@ -92,20 +92,22 @@ header{
 
   #image-header {
     width: 100%;
-  }
-  
-  img{
-    width: 100%;
-    height: 100%;
-    object-fit: cover;
-    
      /* animates zoom effect on loading page */
      animation-name: hero-zoom;
      animation-duration: 5s;
      animation-fill-mode: forwards;
   }
+  
+  
+  img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+    
+    
 
-  /* animation zoom efect on loading page */
+  
 
   
 
@@ -273,3 +275,18 @@ header{
   footer i{
    color:#deeaee;
   }
+
+  /* Media queries*/
+
+/* For larger to medium screen size from 1200px wide and down */
+
+@media screen and (max-width: 1200px) {
+  
+  .col-6 {
+    width: 65%;
+    height: 1200px;
+    margin: 0 auto;
+  }
+    }
+
+    
