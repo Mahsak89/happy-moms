@@ -19,6 +19,15 @@ it is a website which intend to help and reach mothers in.
 1. Code Institute tutorials were very helpful throughout the whole project.
 
 
+## Color Reference
+
+| Color             | rgb                                                               |
+| ----------------- | ------------------------------------------------------------------ |
+| medium dark shade of gray.| ![(80, 80, 80)](https://via.placeholder.com/10/0a192f?text=+) #505050 |
+| White | ![(255, 255, 255)](https://via.placeholder.com/10/f8f8f8?text=+) #ffffff |
+| medium light shade of green-cyan | ![(177, 203, 187)](https://via.placeholder.com/10/00b48a?text=+) #b1cbbb |
+
+
 
 
 
