@@ -19,14 +19,19 @@ it is a website which intend to help and reach mothers in.
 1. Code Institute tutorials were very helpful throughout the whole project.
 
 
-## Authors
 
-- [@Mahsak89](https://github.com/Mahsak89)
 
 
 
 
 ![def]: h(https://ui.dev/amiresponsive?url=%20https://mahsak89.github.io/happy-moms/)
+
+
+## 🚀 About Me
+I'm a  student full stack developer
+
+## Authors
+- [@Mahsak89](https://github.com/Mahsak89)
 
 
 
