@@ -50,6 +50,35 @@ it is a website which intend to help and reach mothers in.
 
 ![def]: h(https://ui.dev/amiresponsive?url=%20https://mahsak89.github.io/happy-moms/)
 
+## **Technologies Used**
+
+### **Languages Used**
+
+- [HTML5](https://en.wikipedia.org/wiki/HTML5)
+
+- [CSS3](https://en.wikipedia.org/wiki/Cascading_Style_Sheets)
+
+### **Frameworks, Libraries & Programs Used**
+
+- [Google fonts](https://fonts.google.com/)
+
+  - Google fonts Roboto and Baloo Bhaina are used on all pages throughout the project.
+
+
+
+- [Git](https://en.wikipedia.org/wiki/Git)
+
+  - Git was used for version control by utilizing the Gitpod terminal to commit to Git and push to GitHub.
+
+- [github](https://github.com/)
+
+  - GitHub is used to store the project's code after being pushed from Git.
+
+- [gitpod](https://www.gitpod.io/)
+
+  - Gitpod is used for testing the project.
+
+
 
 ## 🚀 About Me
 I'm a  student full stack developer
