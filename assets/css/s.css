@@ -180,58 +180,64 @@ button:hover{
 	cursor: pointer;
   background-color:rgba(177, 203, 187,.8);
 }
-  .make-me-different{
-    background-color: rgba(242, 242, 242);
-    padding-bottom: 6%;
-    margin-bottom:7%;
-  }
-  .be-center {
-   text-align: center;
-  }
-  .be-center h2 {
-    font-family: "Oswald",sans-serif;
-    font-size: 300%;
-    font-weight: 500;
-    color:rgb(80, 80, 80);
-   
-    margin-bottom:3%;
-   }
-  
-  .card{
-    
-    background: #deeaee;
-    border-radius: 20px;
-    text-align: center;
-    padding:0px 2%;
-  }
-  .card p{
-   color:rgb(80, 80, 80);
-  }
-  .card h3{
-    padding-top: 8%;
-  
-    color:rgb(70, 70, 70);
-    font-size: 150%;
-  }
-   .card button{
-    background-color:rgb(133, 173, 148);
-    
-    color: white;
-    text-decoration: none;
-    border: 2px solid transparent;
-    font-weight: bold;
-    padding: 13px 45px;
-    border-radius: 30px;
-    transition: .4s; 
-    margin-top: 10px;
-    margin-bottom: 10%;
-  }
-  .card button:hover{
-    
-    border: 2px solid #efe9e9;
-    cursor: pointer;
-    background-color:rgba(177, 203, 187,1);
-  }
+  /*services*/
+
+.service{
+	background:rgba(242, 242, 242);
+	width: 100%;
+	padding: 100px 0px;
+}
+.title h2{
+	color: rgb(90,90,90);
+	font-size:400%;
+	
+	margin: 30px auto;
+	text-align: center;
+}
+.box{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	min-height: 400px;
+}
+.card{
+	height: 35%;
+	width: 30%;
+	padding: 20px 35px;
+	background: rgb(214, 224, 245);
+	border-radius: 20px;
+	margin: 15px;
+	position: relative;
+	overflow: hidden;
+	text-align: center;
+}
+
+h5{
+	color:rgb(70, 70, 70);
+	font-size: 23px;
+	margin-bottom: 15px;
+}
+.pra p{
+	color:rgb(80, 80, 80);
+	font-size: 16px;
+	line-height: 27px;
+	margin-bottom: 25px;
+}
+.card .button{
+	background-color:rgba(177, 203, 187,1);
+	color: white;
+	text-decoration: none;
+	border: 2px solid transparent;
+	
+	padding: 9px 22px;
+	border-radius: 30px;
+	transition: .4s; 
+}
+.card .button:hover{
+	background-color: transparent;
+	border: 2px solid rgba(177, 203, 187,.8);
+	cursor: pointer;
+}
   .customize p{
     font-size: 150%;
     color:rgb(90,90,90);
