@@ -51,7 +51,8 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 
 - [W3C CSS Validator](https://en.wikipedia.org/wiki/W3C_Markup_Validation_Service) : [Result](image/css/Capture.JPG)
 
-- Further, the testing of the project has been carried out from the beginning using google developer tools.
+-Further, the testing of the project has been carried out from the beginning using google developer tools.
+
 ### **Further Testing**
 
 - [x] The Website was tested on Google Chrome, Microsoft Edge, and Firefox browser.
@@ -65,8 +66,9 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 
 
 
+## Screenshots
 
-![def]: h(https://ui.dev/amiresponsive?url=%20https://mahsak89.github.io/happy-moms/)
+![def]:(image/css/mahsascreenshot.JPG)
 
 ## **Technologies Used**
 
