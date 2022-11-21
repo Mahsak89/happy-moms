@@ -68,7 +68,7 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 
 ## Screenshots
 
-![def]:(url=%20https://mahsak89.github.io/happy-moms/)
+![Screenshots](https://ui.dev/amiresponsive?url=%20https://mahsak89.github.io/happy-moms/) : [Result](image/css/mahsascreeenshot.JPG)
 
 ## **Technologies Used**
 
