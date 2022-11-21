@@ -68,7 +68,7 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 
 ## Screenshots
 
-[def]: image/css/mahsascreeenshot.JPG
+[def]: (image/css/mahsascreeenshot.JPG)
 
 ## **Technologies Used**
 
@@ -124,6 +124,3 @@ Following steps has been taken to deploy Happy Moms website on GitHub pages;
 
 
 
-[def]: image/css/mahsascreeenshot.JPG
-[def2]: https://ui.dev/amiresponsive?url=%20https://mahsak89.github.io/happy-moms/
-[def3]: https://ui.dev/amiresponsive?url=%20https://mahsak89.github.io/happy-moms/
