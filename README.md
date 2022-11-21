@@ -43,6 +43,16 @@ it is a website which intend to help and reach mothers in.
 
 - It's easy to find navbar, contacts, social media links in the the pages.
 
+### **Testing**
+
+The W3C Markup Validator and W3C CSS Validator Services were used to validate every page of the project to ensure there were no syntax errors in the project.
+
+- [W3C Markup Validator](https://en.wikipedia.org/wiki/W3C_Markup_Validation_Service) : [Result](image/css/Capture 2.JPG)
+
+- [W3C CSS Validator](https://en.wikipedia.org/wiki/W3C_Markup_Validation_Service) : [Result](image/css/Capture.JPG)
+
+- Further, the testing of the project has been carried out from the beginning using google developer tools.
+
 
 
 
