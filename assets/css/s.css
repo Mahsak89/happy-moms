@@ -306,15 +306,23 @@ input[type=text], textarea {
 
   /* Media queries*/
 
-/* For larger to medium screen size from 1200px wide and down */
+  @media (max-width: 800px) {
+    header {
+      flex-direction: column;
+    }
+    .box{
+        flex-direction: column;
+    }
+    .card{
+       
+        width:80%;
+       
+    }
 
-@media screen and (max-width: 1200px) {
-  
-  .col-6 {
-    width: 65%;
-    height: 1200px;
-    margin: 0 auto;
-  }
+
+
+
+
     }
 
     
