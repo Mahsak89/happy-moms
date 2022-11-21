@@ -38,13 +38,11 @@ li, a {
     color: rgb(80, 80, 80);
     
     text-decoration: none;
-  
-  }
-  
-  li, a{
     font-size:22px ;
     font-weight: 400;
+  
   }
+  
 
 header{
     display: flex;
@@ -123,51 +121,65 @@ header{
     }
   }
 
-  /* about us */ 
-  .make-space{
-    margin-top:5%;
-    margin-bottom:2%;
-  }
-  
-  
-  #happy-women img{
-    display: block;
-    width: 70%;
-    margin-left: auto;
-    text-align: right;
-  }
-  #about-us h2{
-    font-family: "Oswald",sans-serif;
-    font-size: 300%;
-    font-weight: 500;
-    color:rgb(80, 80, 80);
-  
-  }
-  
-  #about-us p{
-    font-family: "Oswald",sans-serif;
+ /*about us*/
+ .about{
+	width: 100%;
+	padding: 10% 0px;
+    margin-top: 0%;
+	
+}
+.about img{
+	height: auto;
+	width: 40%;
+    margin-right:5% ;
+    object-fit: cover;
+}
+.about-text{
+	width: 550px;
+}
+.main{
+	
+	max-width: 95%;
+	margin: 0 auto;
+	display: flex;
+	align-items: center;
+	justify-content: space-around;
+}
+.about-text h2{
+	font-family: "Oswald",sans-serif;
+  font-size: 300%;
+  font-weight: 500;
+  color:rgb(80, 80, 80);
+}
+
+.about-text p{
+	
+	letter-spacing: 1px;
+	line-height: 28px;
+	
+	
+    
     font-size: 150%;
     color:rgb(101, 101, 101);
-  
-  }
-  button{
-    background-color:rgba(177, 203, 187,1);
-    color: white;
-    text-decoration: none;
-    border: 2px solid transparent;
-    font-weight: bold;
-    padding: 13px 45px;
-    border-radius: 30px;
-    transition: .4s; 
-    margin-top: 40px;
-  }
-  
-  button:hover{
-    
-    border: 2px solid #efe9e9;
-    cursor: pointer;
-    background-color:rgba(177, 203, 187,.8);
-  }
+}
+button{
+	background-color:rgba(177, 203, 187,1);
+	color: white;
+	text-decoration: none;
+	border: 2px solid transparent;
+	font-weight: bold;
+	padding: 13px 45px;
+	border-radius: 30px;
+	transition: .4s; 
+  margin-top: 40px;
+}
+
+button:hover{
+	
+	border: 2px solid #efe9e9;
+	cursor: pointer;
+  background-color:rgba(177, 203, 187,.8);
+}
   .make-me-different{
     background-color: rgba(242, 242, 242);
     padding-bottom: 6%;
