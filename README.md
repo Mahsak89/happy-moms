@@ -68,7 +68,7 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 
 ## Screenshots
 
-![def](https://ui.dev/amiresponsive?url=%20https://mahsak89.github.io/happy-moms/)
+[def]: image/css/mahsascreeenshot.JPG
 
 ## **Technologies Used**
 
@@ -106,15 +106,21 @@ I'm a  student full stack developer
 ## Authors
 - [@Mahsak89](https://github.com/Mahsak89)
 
+## **Deployment**
 
+Following steps has been taken to deploy Happy Moms website on GitHub pages;
 
+1. Go to GitHub and click on repository [Mahsak89/happy-moms](https://github.com/Mahsak89/happy-moms)
 
+1. Click on **Settings** on the top right of the page
 
+1. on left side click **GitHub pages section**
 
+1. Click on **dropdown menu** under **Source** section and select **Master Branch as Source**
 
+1. The page will automatically refresh.
 
-
-
+1. Scroll back down through the page to locate the now published site link in the "GitHub Pages" section.
 
 
 
