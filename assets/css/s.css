@@ -292,14 +292,17 @@ input[type=text], textarea {
   }
   footer{
     text-align: center;
-    padding-top: 5%;
-    padding-bottom: 5%;
+    padding-top: 1%;
+    padding-bottom: 1%;
     background-color: rgb(71, 107, 84);
-    margin-top: 5%;
   }
   footer i{
    color:#deeaee;
   }
+
+
+
+  
 
   /* Media queries*/
 
