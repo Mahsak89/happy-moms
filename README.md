@@ -29,6 +29,21 @@ it is a website which intend to help and reach mothers in.
 
 
 
+## Features
+
+- Interactive elements.
+
+- Informative item descriptions.
+
+- Easy to use.
+
+- simple navbar menu is unique which makes navigation easier.
+
+- Beautiful photos of the dishes and drinks attract the customers.
+
+- It's easy to find navbar, contacts, social media links in the the pages.
+
+
 
 
 
