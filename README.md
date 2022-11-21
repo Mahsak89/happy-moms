@@ -52,7 +52,15 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 - [W3C CSS Validator](https://en.wikipedia.org/wiki/W3C_Markup_Validation_Service) : [Result](image/css/Capture.JPG)
 
 - Further, the testing of the project has been carried out from the beginning using google developer tools.
+### **Further Testing**
 
+- [x] The Website was tested on Google Chrome, Microsoft Edge, and Firefox browser.
+
+- [x] The website was shown responsive on a variety of emulated devices such as Jio phone, iphone4, 5, SE, 6, 6 plus, 7, 7plus, 8, 8plus and X, Nokia Lumia 520 and N9, Moto G4, Galaxy S5, Blackberry Z30 and playbook, Galaxy note, Microsoft Lumia 950 and 550, LG Optimus L70, Nexus 4, 5, 6, 7 and 10, 6P, Pixel 2 and 2XL, iPad mini, iPad, Kindle Fire, iPad pro and laptop with MDPI, touch, and HiDPI.
+
+- [x] A large amount of testing was done to ensure that all pages were linking correctly.
+
+- [x] Friends and family members were asked to review the site and documentation to point out any bugs and/or user experience issues.
 
 
 
