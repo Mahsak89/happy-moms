@@ -57,44 +57,43 @@ li, a {
   font-size:22px ;
   font-weight: 400;
 }
-  
 
    /*header*/
-   header{
-    display: flex;
-    justify-content:flex-end;
-    align-items: center;
-    padding: 30px 4%;
-    background-color: #5a8471;
-  }
+header{
+  display: flex;
+  justify-content:flex-end;
+  align-items: center;
+  padding: 30px 4%;
+  background-color: #5a8471;
+}
+
+.logo{
+  cursor: pointer;
+  margin-right: auto;
   
-  .logo{
-    cursor: pointer;
-    margin-right: auto;
+}
+
+.logo h1{
+  color: #fff;
+  font-family: 'Finger Paint', cursive;
+}
+
+  
+.nav_links{
+  list-style: none;
     
-  }
-  
-  .logo h1{
-    color: #fff;
-    font-family: 'Finger Paint', cursive;
-  }
-  
-    
-  .nav_links{
-    list-style: none;
-      
-  }
-  .nav_links li{
-    display: inline-block;
-    padding: 0px 20px;
-  }
-  .nav_links li a{
-    transition: all 0.3s ease 0s;
-  }
-  .nav_links li a:hover{
-    color: #c6c1b2;
-    font-weight: bold;
-  }
+}
+.nav_links li{
+  display: inline-block;
+  padding: 0px 20px;
+}
+.nav_links li a{
+  transition: all 0.3s ease 0s;
+}
+.nav_links li a:hover{
+  color: #c6c1b2;
+  font-weight: bold;
+}
 
   /* hero image */
 
@@ -392,7 +391,7 @@ input[type=text], textarea {
   /* Style The Dropdown Button */
   .dropbtn {
     background-color: #ffffff;
-    color: #c94c4c;
+    color: #5a8471;
     padding: 16px;
     font-size: 16px;
     border: none;
@@ -437,7 +436,7 @@ input[type=text], textarea {
   
   /* Change color of dropdown links on hover */
   .dropdown-content a:hover {
-    background-color: #f5cb5c
+    background-color: #c6c1b2;
   }
   
   /* Show the dropdown menu on hover */
@@ -447,7 +446,7 @@ input[type=text], textarea {
   
   /* Change the background color of the dropdown button when the dropdown content is shown */
   .dropdown:hover .dropbtn {
-    background-color: #f5cb5c;
+    background-color: #c6c1b2;
   }
     
   
