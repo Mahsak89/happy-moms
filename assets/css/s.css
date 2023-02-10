@@ -4,8 +4,10 @@
 box-sizing: border-box;
 margin: 0;
 padding: 0;
+overflow-x: hidden;
 
 }
+
 div.scrollmenu {
   scroll-behavior: smooth;
   margin: 0px;
@@ -15,6 +17,7 @@ div.scrollmenu {
   background-color: #333;
   overflow: auto;
   white-space: nowrap;
+  overflow:hidden;
 }
 
 div.scrollmenu a {
@@ -326,70 +329,100 @@ input[type=text], textarea {
 
   
 
-  /* Media queries*/
-
-  @media (max-width: 800px) {
+  @media screen and (max-width:750px) {
     header {
-      flex-direction: column;
+      flex-direction: row-reverse;
     }
-    .box{
-        flex-direction: column;
+  
+    .logo h1 {
+      font-size: 15px;
+      font-weight: bolder;
     }
-    .card{
-       
-        width:80%;
-       
-    }
-
-
-
-
-
-    }
-    @media (max-width: 500px) {
-      header {
-        flex-direction: column;
-      }
-
-      .nav_links li{
-          display: block;
-          padding: 5px 20px;
-         
-        }
-        .logo{
-          
-          margin: auto;
-          
-        }
-        .about img{
-          height: auto;
-          width:100%;
-          margin:auto;
-          object-fit: cover;
-      }
-      .main{
-        
-          flex-direction: column;
-          width: 100%;
-        
-      }
-      .about-text h2{
-         margin-left: 25%;
-         font-size: 170%;
-      }
+  
+    nav {
+      flex-direction: row;
       
-      .about-text p{
-          
-          margin-left: 25%;
-          margin-right: 25%;
-          max-width: 80%;
-          font-size: 100%;
-          object-fit: cover;
-      }
-      button{
-          margin-left: 25%;
-
-      }
+    }
+  
+    .dropdown {
+      position: relative;
+      display: inline-block;
+    }
+    
+    .dropdown-content {
+      display: none;
+      position: absolute;
+      background-color: #f9f9f9;
+      min-width: 160px;
+      box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+      padding: 12px 16px;
+      z-index: 1;
+    }
+    
+    .dropdown:hover .dropdown-content {
+      display: block;
+    }
+  
+    #bignav {
+      display: none;
+    }
+  
+    .nav_links li {
+      display: inline-block;
+      padding: 5px 20px;
+    }
+  
+    .logo {
+      margin: auto;
+    }
+  
+    .about img {
+      height: auto;
+      width:100%;
+      margin:auto;
+      object-fit: cover;
+    }
+  
+    .main {
+      flex-direction: column;
+      width: 100%;
+    }
+    .about-text h2 {
+      margin-left: 25%;
+      font-size: 170%;
+    }
+    
+    .about-text p {
+      margin-left: 25%;
+      margin-right: 25%;
+      max-width: 80%;
+      font-size: 100%;
+      object-fit: cover;
+    }
+    .box {
+      flex-direction: column;
+     
+    }
+    .card {
+      flex-direction: column;
+      font-size: 100%;
+      object-fit: cover;
+      width: 100%;
+    }
+    #game-over-area {
+      flex-direction: column;
+      font-size: 100%;
+      object-fit: cover;
+      width: 80%;
+      padding: 30px;
+    }
+  
+    .position {
+      flex-direction: column;
+      align-items: center;
+      max-width: 100%;
+   
+    }
 
 }
 
