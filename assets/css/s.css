@@ -6,7 +6,7 @@ margin: 0;
 padding: 0;
 
 }
-.scrollmenu {
+div.scrollmenu {
   scroll-behavior: smooth;
   margin: 0px;
   padding: 0px;
