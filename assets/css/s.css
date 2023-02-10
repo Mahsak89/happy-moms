@@ -139,16 +139,18 @@ header{
 
  /*about us*/
  .about{
+  background-color: #c6c1b2;
 	width: 100%;
 	padding: 10% 0px;
-    margin-top: 0%;
+  margin-top: 0%;
 	
 }
 .about img{
 	height: auto;
-	width: 40%;
-    margin-right:5% ;
-    object-fit: cover;
+	width: 50%;
+  margin-right:5% ;
+  object-fit: cover;
+  border-radius: 50px;
 }
 .about-text{
 	width: 550px;
