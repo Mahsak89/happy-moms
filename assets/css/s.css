@@ -300,10 +300,9 @@ input[type=text], textarea {
   footer i{
    color:#deeaee;
   }
-
   /* Media queries */
   /* 800px wide and down */
-  @media (max-width: 800px) {
+  @media (max-width: 830px) {
     header {
       flex-direction: column;
     }
@@ -319,7 +318,7 @@ input[type=text], textarea {
 
 }
 
-@media (max-width: 500px) {
+@media (max-width: 549px) {
   header {
     flex-direction: column;
   }
@@ -365,6 +364,7 @@ input[type=text], textarea {
   }
 
   }
+
 
 
 
