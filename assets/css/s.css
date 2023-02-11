@@ -37,18 +37,17 @@ overflow-x: hidden;
 li, a {
   font-family: 'Finger Paint', cursive;
   color: #fff;
-  letter-spacing: 4px;
   text-decoration: none;
   font-size:22px ;
   font-weight: 400;
 }
 
-   /*header*/
+/*header*/
 header{
   display: flex;
   justify-content:flex-end;
   align-items: center;
-  padding: 30px 4%;
+  padding: 15px 4%;
   background-color: #5a8471;
 }
 
@@ -300,6 +299,71 @@ input[type=text], textarea {
   }
   footer i{
    color:#deeaee;
+  }
+
+  /* Media queries */
+  /* 800px wide and down */
+  @media (max-width: 800px) {
+    header {
+      flex-direction: column;
+    }
+    .box{
+        flex-direction: column;
+    }
+    .card{
+       
+        width:80%;
+       
+    }
+
+
+}
+
+@media (max-width: 500px) {
+  header {
+    flex-direction: column;
+  }
+
+  .nav_links li{
+      display: block;
+      padding: 5px 20px;
+     
+    }
+    .logo{
+      
+      margin: auto;
+      
+    }
+    .about img{
+      height: auto;
+      width:100%;
+      margin:auto;
+      object-fit: cover;
+  }
+  .main{
+    
+      flex-direction: column;
+      width: 100%;
+    
+  }
+  .about-text h2{
+     margin-left: 25%;
+     font-size: 170%;
+  }
+  
+  .about-text p{
+      
+      margin-left: 25%;
+      margin-right: 25%;
+      max-width: 80%;
+      font-size: 100%;
+      object-fit: cover;
+  }
+  button{
+      margin-left: 25%;
+
+  }
+
   }
 
 
