@@ -55,15 +55,25 @@ Remember : A happy mom = Happy home
 
 - It's easy to find navbar, contacts, social media links in the the pages.
 
-### **Testing**
+## Testing
+
+**general testing:**
 
 The W3C Markup Validator and W3C CSS Validator Services were used to validate every page of the project to ensure there were no syntax errors in the project.
 
-- [W3C Markup Validator](https://en.wikipedia.org/wiki/W3C_Markup_Validation_Service) : [Result](image/css/Capture 2.JPG)
+- [W3C Markup Validator](https://validator.w3.org/) : [Result](assets/image/html-validator1.png)
 
-- [W3C CSS Validator](https://en.wikipedia.org/wiki/W3C_Markup_Validation_Service) : [Result](image/css/Capture.JPG)
+- [W3C CSS Validator](https://jigsaw.w3.org/css-validator/) : [Result](assets/image/css-validator1.png)
 
--Further, the testing of the project has been carried out from the beginning using google developer tools.
+- [Grammarly](https://app.grammarly.com/) used to fix any misspells.
+
+- [JSLint](https://jslint.com/) used to check the script codes. 
+
+- User stories from the UX section that didn't need usage of javascript were tested to ensure that they all work as intended, with the project providing an easy and straightforward way for the users to achieve their goals.
+
+- Navbar pages are linked correctly to the right page.
+
+- Social links are linked to the right page and open a new tab when clicked on.
 
 ### **Further Testing**
 
