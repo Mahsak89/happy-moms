@@ -55,11 +55,11 @@ The website contains 1 page including 3 sections
 - Beautiful photos of the dishes and drinks attract the customers.
 
 - It's easy to find navbar, contacts, social media links in the the pages.
-![Header/ hero img](assets/image/hero-mom-image.jpg)
-![Section 1](assets/image/section-1.png)
-![Section 2](assets/image/section-2.png)
-![section 3](assets/image/section-3.png)
-![Footer](assets/image/footer.png)
+![Header/ hero img](docs/assets/image/header-heroimage.png)
+![Section 1](docs/assets/image/section-1.png)
+![Section 2](docs/assets/image/section-2.png)
+![section 3](docs/assets/image/section-3.png)
+![Footer](docs/assets/image/footer.png)
 
 ## Testing
 
