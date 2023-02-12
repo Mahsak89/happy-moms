@@ -16,6 +16,22 @@ we are here to help mothers who need help.
 Remember : A happy mom = Happy home
 
 
+## Business Goals
+
+### User Goals
+- Meet the other mothers, with the same situation 
+- Book an online terapi 
+- Join the workout group at gym or outside
+- Make new friends
+
+### Website Owner Goals
+- book online therapy for only mothers
+- make events every week to buld a network
+- Increase the privacy policy for customers
+- Provide a form to enquire about services provided
+- creat online training once per week 
+
+
 
 
 ## Acknowledgements
@@ -60,11 +76,11 @@ The website contains 1 page including 3 sections
 - Beautiful photos of the dishes and drinks attract the customers.
 
 - It's easy to find navbar, contacts, social media links in the the pages.
-![Header/ hero img](assets/image/header-heroimage.png)
-![Section 1](assets/image/section-1.png)
-![Section 2](assets/image/section-2.png)
-![section 3](assets/image/section-3.png)
-![Footer](assets/image/footer.png)
+[Header/ hero img](assets/image/header-heroimage.png)
+[Section 1](assets/image/section-1.png)
+[Section 2](assets/image/section-2.png)
+[section 3](assets/image/section-3.png)
+[Footer](assets/image/footer.png)
 
 ## Testing
 
@@ -123,6 +139,7 @@ The W3C Jigsaw CSS Validation Service is used to validate CSS documents. The pag
 - [Google fonts](https://fonts.google.com/)
 
   - Google fonts Roboto and Baloo Bhaina are used on all pages throughout the project.
+  - Font Awesome
 
 
 
@@ -137,6 +154,7 @@ The W3C Jigsaw CSS Validation Service is used to validate CSS documents. The pag
 - [gitpod](https://www.gitpod.io/)
 
   - Gitpod is used for testing the project.
+
 
 
 
