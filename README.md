@@ -34,31 +34,21 @@ Remember : A happy mom = Happy home
 
 
 
-## Acknowledgements
-
-1. A special thanks to my mentor, Agshat Garg, for his valuable feedback during mentoring sessions.
-
-1. Also, I like to thank all of the Code Institute support groups.
-
-1. The design and layout of this website are based on the Rule of Thirds.
-
-1. All the images on the website have an external source and have been used for only educational purposes.
-
-1. Code Institute tutorials were very helpful throughout the whole project.
-
-
 - #### Typography
 
   - Lato and Oswald font are the main fonts used throughout the whole website with Finger Paint and cursive as the fallback font in a case for any reason the font isn't being imported into the site correctly.
 
 
-## Color Reference
+- #### Colour Scheme
 
-| Color             | rgb                                                               |
-| ----------------- | ------------------------------------------------------------------ |
-| medium dark shade of gray.| ![(80, 80, 80)](https://via.placeholder.com/10/0a192f?text=+) #505050 |
-| White | ![(255, 255, 255)](https://via.placeholder.com/10/f8f8f8?text=+) #ffffff |
-| medium light shade of green-cyan | ![(177, 203, 187)](https://via.placeholder.com/10/00b48a?text=+) #b1cbbb |
+    - The 6 main colors used are:
+    
+    - ##5a8471 for the heder background and the footer which is close to the green.
+
+    - #c6c1b2 for hovers which is close to the gray-brown.
+
+    - rgba(198, 193, 178, 0.3) for about section and contact section which is a light gray.
+
 
 
 
@@ -76,10 +66,15 @@ The website contains 1 page including 3 sections
 - Beautiful photos of the dishes and drinks attract the customers.
 
 - It's easy to find navbar, contacts, social media links in the the pages.
+
 [Header/ hero img](assets/image/header-heroimage.png)
+
 [Section 1](assets/image/section-1.png)
+
 [Section 2](assets/image/section-2.png)
+
 [section 3](assets/image/section-3.png)
+
 [Footer](assets/image/footer.png)
 
 ## Testing
@@ -123,9 +118,6 @@ The W3C Jigsaw CSS Validation Service is used to validate CSS documents. The pag
 
 
 
-
-
-
 ## **Technologies Used**
 
 ### **Languages Used**
@@ -154,6 +146,22 @@ The W3C Jigsaw CSS Validation Service is used to validate CSS documents. The pag
 - [gitpod](https://www.gitpod.io/)
 
   - Gitpod is used for testing the project.
+
+-   
+
+
+  ## Acknowledgements
+
+1. A special thanks to my mentor, Agshat Garg, for his valuable feedback during mentoring sessions.
+
+1. Also, I like to thank all of the Code Institute support groups.
+
+1. The design and layout of this website are based on the Rule of Thirds.
+
+1. All the images on the website have an external source and have been used for only educational purposes.
+
+1. Code Institute tutorials were very helpful throughout the whole project.
+
 
 
 
