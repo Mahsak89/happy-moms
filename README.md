@@ -42,7 +42,7 @@ Remember : A happy mom = Happy home
 
 
 ## Features
-The website contains 1 page including  13 sections
+The website contains 1 page including 3 sections
 
 - Interactive elements.
 
@@ -55,6 +55,11 @@ The website contains 1 page including  13 sections
 - Beautiful photos of the dishes and drinks attract the customers.
 
 - It's easy to find navbar, contacts, social media links in the the pages.
+![Footer](docs/footer-bar.jpeg)
+![Footer](docs/footer-bar.jpeg)
+![Footer](docs/footer-bar.jpeg)
+![Footer](docs/footer-bar.jpeg)
+![Footer](docs/footer-bar.jpeg)
 
 ## Testing
 
