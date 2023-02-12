@@ -29,7 +29,7 @@ Remember : A happy mom = Happy home
 - make events every week to buld a network
 - Increase the privacy policy for customers
 - Provide a form to enquire about services provided
-- creat online training once per week 
+- create online training once per week 
 
 
 
