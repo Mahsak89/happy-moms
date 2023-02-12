@@ -71,15 +71,18 @@ The website contains 1 page including 3 sections
 
 - It's easy to find navbar, contacts, social media links in the the pages.
 
-[Header/ hero img](assets/image/header-heroimage.png)
+You can see every section of the website separately here :
 
-[Section 1](assets/image/section-1.png)
 
-[Section 2](assets/image/section-2.png)
+- [Header/ hero img](assets/image/header-heroimage.png)
 
-[section 3](assets/image/section-3.png)
+- [Section 1](assets/image/section-1.png)
 
-[Footer](assets/image/footer.png)
+- [Section 2](assets/image/section-2.png)
+
+- [section 3](assets/image/section-3.png)
+
+- [Footer](assets/image/footer.png)
 
 ## Testing
 
