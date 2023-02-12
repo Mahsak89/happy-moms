@@ -3,7 +3,19 @@
 
 [View the live project here.](https://mahsak89.github.io/happy-moms/)
 
-it is a website which intend to help and reach mothers in.
+It is a website which intend to help and reach mothers in.
+
+## **Description**
+
+![Desktop view](assets/image/responsiv-pic.png)
+
+
+Moms are often pushed to the end of their rope with all of the emotional, physical, and developmental needs of their children.
+One of the consistent traits associated with a “happy mom” is the act of self-care and gaining access to those authentic moments of happiness.
+we are here to help mothers who need help.
+Remember : A happy mom = Happy home
+
+
 
 
 ## Acknowledgements
@@ -66,9 +78,7 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 
 
 
-## Screenshots
 
-![Desktop view](assets/image/responsiv-pic.png)
 
 
 ## **Technologies Used**
