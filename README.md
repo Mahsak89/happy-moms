@@ -41,13 +41,17 @@ Remember : A happy mom = Happy home
 
 - #### Colour Scheme
 
-    - The 6 main colors used are:
+     The 6 main colors used are:
     
     - ##5a8471 for the heder background and the footer which is close to the green.
 
     - #c6c1b2 for hovers which is close to the gray-brown.
 
     - rgba(198, 193, 178, 0.3) for about section and contact section which is a light gray.
+    - rgba(177, 203, 187,1) for buttons and  rgba(177, 203, 187,.8) for buttons hover which are greenish
+    - rgba(242, 242, 242) for services which is close to white  
+    - rgb(214, 224, 245) for cards and rgba(214, 224, 245,.8) for contact form which are a light blue
+    
 
 
 
