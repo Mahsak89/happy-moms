@@ -31,6 +31,11 @@ Remember : A happy mom = Happy home
 1. Code Institute tutorials were very helpful throughout the whole project.
 
 
+- #### Typography
+
+  - Lato and Oswald font are the main fonts used throughout the whole website with Finger Paint and cursive as the fallback font in a case for any reason the font isn't being imported into the site correctly.
+
+
 ## Color Reference
 
 | Color             | rgb                                                               |
@@ -55,11 +60,11 @@ The website contains 1 page including 3 sections
 - Beautiful photos of the dishes and drinks attract the customers.
 
 - It's easy to find navbar, contacts, social media links in the the pages.
-![Header/ hero img](docs/assets/image/header-heroimage.png)
-![Section 1](docs/assets/image/section-1.png)
-![Section 2](docs/assets/image/section-2.png)
-![section 3](docs/assets/image/section-3.png)
-![Footer](docs/assets/image/footer.png)
+![Header/ hero img](assets/image/header-heroimage.png)
+![Section 1](assets/image/section-1.png)
+![Section 2](assets/image/section-2.png)
+![section 3](assets/image/section-3.png)
+![Footer](assets/image/footer.png)
 
 ## Testing
 
