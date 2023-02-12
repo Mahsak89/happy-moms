@@ -151,7 +151,11 @@ The W3C Jigsaw CSS Validation Service is used to validate CSS documents. The pag
 
   - Gitpod is used for testing the project.
 
--   
+- [Font Awesome](https://fontawesome.com/) 
+  - Font Awesome is used for my icons.
+   
+- [Pexels](https://www.pexels.com/)
+  - Pexels is used for images  in this site
 
 
   ## Acknowledgements
