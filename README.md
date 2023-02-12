@@ -42,6 +42,7 @@ Remember : A happy mom = Happy home
 
 
 ## Features
+The website contains 1 page including  13 sections
 
 - Interactive elements.
 
