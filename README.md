@@ -67,11 +67,6 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 
 - [Grammarly](https://app.grammarly.com/) used to fix any misspells.
 
-- [JSLint](https://jslint.com/) used to check the script codes. 
-
-- User stories from the UX section that didn't need usage of javascript were tested to ensure that they all work as intended, with the project providing an easy and straightforward way for the users to achieve their goals.
-
-- Navbar pages are linked correctly to the right page.
 
 - Social links are linked to the right page and open a new tab when clicked on.
 
