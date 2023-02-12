@@ -72,6 +72,19 @@ The website contains 1 page including 3 sections
 
 The W3C Markup Validator and W3C CSS Validator Services were used to validate every page of the project to ensure there were no syntax errors in the project.
 
+## HTML Validation
+
+[View the errors that I fixed.](assets/image/Error-html.png)
+
+The Nu HTML Checker (W3C) is used to validate HTML documents. It found two errors indicated, and I fixed them.
+- missing lang="en"
+- chande section to div for the hero image.
+
+## CSS Validation
+
+The W3C Jigsaw CSS Validation Service is used to validate CSS documents. The page passed without any errors.
+
+
 - [W3C Markup Validator](https://validator.w3.org/) : [Result](assets/image/html-validator1.png)
 
 - [W3C CSS Validator](https://jigsaw.w3.org/css-validator/) : [Result](assets/image/css-validator1.png)
